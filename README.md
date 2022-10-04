@@ -7,8 +7,7 @@ I am able to achieve this through continous cultivation of knowledge in the fron
 
 Interact with my public projects here.
 
-![image](https://user-images.githubusercontent.com/107496597/193747073-520affaf-f1b2-4fda-9505-17c8db382926.png)
-![image](https://user-images.githubusercontent.com/107496597/193747413-7092dc4b-d771-44c5-a643-86412f72c548.png)
 
+![AQW](https://user-images.githubusercontent.com/107496597/193756509-b59e122e-d0c8-4ef6-b513-c975c05b8f2f.jpg)
 
 
