@@ -5,7 +5,7 @@ With most businesses and interpersonal relations turning towards the online envi
 I am on creating functional and optimized web solutions to foster these relations.
 I am able to achieve this through continous cultivation of knowledge in the frontend tech stacks as well as UX design.
 
-Here are some of the projects I have worked on.
+I post most of the public projects I work on here.
 
 ![image](https://user-images.githubusercontent.com/107496597/193747073-520affaf-f1b2-4fda-9505-17c8db382926.png)
 
